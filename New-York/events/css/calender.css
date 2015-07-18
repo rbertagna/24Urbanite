@@ -1,0 +1,49 @@
+body.notBoot {
+  background-color: #A3C2FF;
+  background-size: 400px auto;
+}
+
+header {
+  color: white;
+  text-align: left;
+  width: 90%;
+  height: 80px;
+  margin-left: 5%;
+  margin-right: 5%;  
+  background-color: #ECECEC;
+  background-size: auto 100px;
+  margin-bottom: 0px;
+  border-radius: 7.5px;
+}
+
+header h1 {
+  margin-left: 5px;
+  font-size: 70px;
+}
+
+.navbar.navbar-default {
+  width: 90%;
+  margin-right: 5%;
+  margin-left: 5%;
+  margin-top: 4px;
+  margin-bottom: 5px;
+  background-color: #C0C0C0;
+}
+
+.wrapper {
+  background-color: #ECECEC;
+  width: 90%;
+  height: 800px;
+  margin-left: 5%;
+  margin-right: 5%;
+  border-radius: 3px;
+}
+
+.calender {
+  border: 0;
+  width: 99%;
+  height: 600px; 
+  margin-left: .5%;
+  margin-right: .5%;
+  margin-top: 5px;
+}
