@@ -120,7 +120,7 @@ body .carousel-inner > .item > img {
 .box:hover {
   background-color: black;
   color: #F2F2F2;
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 

@@ -86,6 +86,10 @@ body > div > div.top_div > div > div {
   font-size: 33px;
 }
 
+.decison-buttons div div {
+  border-radius: 5px;
+}
+
 .yesno {
   margin-top: 10px;
 }
